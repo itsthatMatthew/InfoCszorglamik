@@ -3,5 +3,5 @@ Prog1 tárgyból az infoc.eet.bme.hu oldalon feladott szorgalmi feladatok által
 
 ## Megjegyzések:
   - A feltöltött fájlok mind a saját munkáim.
-  - Csupán azért kerülnek feltöltésre a projektek a leadási határidő __után__, hogy mások azt megtekinthessék.
+  - Csupán azért kerülnek feltöltésre a projektek a __leadási határidő után__, hogy mások azt megtekinthessék.
   - Semilyen felelősséget nem vállalok ha a fájlok bárkinek bármilyen kárt okoznak.
