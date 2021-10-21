@@ -1,5 +1,5 @@
 # InfoC szorglamik
-Prog1 tárgyból az infoc.eet.bme.hu oldalon feladott szorgalmi feladatok általam elkészített megoldásai.
+Prog1 tárgyból az infoc.eet.bme.hu oldalon található feladatok általam elkészített megoldásai.
 
 ## Megjegyzések:
   - A feltöltött fájlok mind a saját munkáim.
