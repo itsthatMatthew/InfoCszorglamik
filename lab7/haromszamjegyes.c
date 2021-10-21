@@ -5,10 +5,10 @@ void SZCS(int n) {
 		printf("\n%d", n);
 		return;
 	}
-	int vege = n - 1000 * (n / 1000);
-	SZCS(n / 1000);
-	printf(" %.3d", vege);
-	return;
+	int vege = n - 1000 * (n / 1000);	// Pl.: n = 123465
+	SZCS(n / 1000);				// n / 1000 = 123
+	printf(" %.3d", vege);			// 1000 * ( n / 1000 ) = 123000
+	return;					// n - 1000 * ( n / 1000 ) = 123456 - 123000 = 456
 }
 
 int main(void) {
