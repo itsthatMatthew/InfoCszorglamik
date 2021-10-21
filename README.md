@@ -1,4 +1,4 @@
-# InfoC szorglamik
+# Prog1
 Prog1 tárgyból az infoc.eet.bme.hu oldalon található feladatok általam elkészített megoldásai.
 
 ## Megjegyzések:
