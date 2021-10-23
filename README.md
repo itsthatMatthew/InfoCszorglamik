@@ -3,7 +3,7 @@ Prog1 tárgyból az infoc.eet.bme.hu oldalon található feladatok általam elk�
 
 ## Megjegyzések:
   - A feltöltött fájlok mind a saját munkáim.
-  - Csupán azért kerülnek feltöltésre a projektek a [__leadási határidő után__], hogy mások azt megtekinthessék.
+  - Csupán azért kerülnek feltöltésre a projektek a __[leadási határidő után]__, hogy mások azt megtekinthessék.
   - Semilyen felelősséget nem vállalok ha a fájlok bárkinek bármilyen kárt okoznak.
 
 ## nem csak labor/szrogalmi feladatokra
