@@ -16,9 +16,9 @@
 typedef char** Labirintus;
 // Feltölti a labirintust a szükséges sztringekkel
 void LabFoglal(Labirintus*); // Mivel magának a pointer-pointernek az értékét
-							  // akarjuk megváltoztatni, kénytelenek vagyunk
-							  // az erre mutató pointert bekérni, így
-							  // függvényhíváskor majd címet kell képeznünk.
+			     // akarjuk megváltoztatni, kénytelenek vagyunk
+			     // az erre mutató pointert bekérni, így
+			     // függvényhíváskor majd címet kell képeznünk.
 // Felszabadítja a labirintust
 void LabSzabad(Labirintus);
 // A labirintus feltöltése a labor anyagában megadottal
