@@ -28,15 +28,15 @@ void LabEpit(Labirintus lab) {
 	// Csúnyán ideiglenesen létrehozzuk azt a 2D-s tömb9t, aminek statikus léte
 	// ellen egész eddig dolgoztunk, hogy másolhassunk belőle
 	char temp[LAB_MAGAS][LAB_SZELES] = { "###### ###",
-										 "#$   #   #",
-			 							 "#### ### #",
-			 							 "#        #",
-			 							 "# #### ###",
-			 							 "# #    #$#",
-			 							 "# ##$# # #",
-			 							 "#@ ### # #",
-			 							 "#   $#   #",
-			 							 "##########"};
+					     "#$   #   #",
+			 		     "#### ### #",
+			 		     "#        #",
+			 		     "# #### ###",
+			 		     "# #    #$#",
+			 		     "# ##$# # #",
+			 		     "#@ ### # #",
+			 		     "#   $#   #",
+			 		     "##########"};
 
 	// Végigiterálva a megadott szöveget bemásolva
 	for (int i = 0; i < LAB_MAGAS; i++)
