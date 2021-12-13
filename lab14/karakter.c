@@ -21,7 +21,7 @@ Karakter Lep(Labirintus lab, Iranyok irany) {
 	// Előszőr képezzük a karaktert
 	Karakter karakter = Holvan(lab);
 	// Majd értékeit az iránynak megfelelően változtatjuk
-	switch (irany) {
+	/*switch (irany) {
 		case LE:
 		case FEL:
 			irany == FEL ? karakter.x-- : karakter.x++;
@@ -30,7 +30,17 @@ Karakter Lep(Labirintus lab, Iranyok irany) {
 		case JOBBRA:
 			irany == BALRA ? karakter.y-- : karakter.y++;
 			break;
-	}
+	}*/
+	
+	// Vagy egy jelentősen barátságosabb módot választunk
+	if (irany == FEL)
+		karakter.x--;
+	else if (irany == LE)
+		karakter.x++;
+	else if (irany == BALRA)
+		karakter.y--;
+	else if (irany == JOBBRA)
+		karakter.y++;
 
 	return karakter; // Végül visszatérünk az új koordinátákkal
 }
