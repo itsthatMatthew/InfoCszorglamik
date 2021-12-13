@@ -36,4 +36,4 @@ bool utkereso(Labirintus lab, Karakter karakter) {
 	return false;
 }
 
-#endif
+#endif /* UTKERESO_H */
