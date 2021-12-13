@@ -20,4 +20,4 @@ bool MehetArra(Labirintus, Iranyok);
 // Tényleges léptetés
 Esemeny Leptetes(Labirintus, Iranyok);
 
-#endif
+#endif /* KARAKTER_H */
