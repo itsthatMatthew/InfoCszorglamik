@@ -28,4 +28,4 @@ void LabKirajz(Labirintus);
 // Kincsek számának meghatározása
 int SzumKincsek(Labirintus);
 
-#endif
+#endif /* LABIRINTUS_H */
