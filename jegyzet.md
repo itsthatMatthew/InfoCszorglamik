@@ -9,9 +9,9 @@ Az biztos, hogy ez sem egy kétnapos projekt. A munka haladtát igyekszem minél
 A folyamat haladására az alábbi nyomonkövetést tudom egyelőre biztosítani:  
 
 - [X] ~~Teljesen megbolondulni~~
-- [] Láncolt listák, mint adatszerkezetek
-- [] Beolvasás file-ból, best practices
-- [] Minden más, amit még magamtól nem találtam ki, de igény van rá
+- [ ] Láncolt listák, mint adatszerkezetek
+- [ ] Beolvasás file-ból, best practices
+- [ ] Minden más, amit még magamtól nem találtam ki, de igény van rá
 
 Sok féle kódolási stílus, elnevezési konvenció létezik, egyiket sem merném felsőbbrendűnek kijelenteni.  
 Egyetlen dologra viszont még most kitérek: az olyan tagváltozókat, mint pl.: `_Data` feltétlenül kerüljétek.  
