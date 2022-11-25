@@ -19,6 +19,9 @@ A folyamat haladására az alábbi nyomon követést tudom egyelőre biztosítan
 
 - [X] ~~Teljesen megbolondulni~~
 - [ ] Láncolt listák, mint adatszerkezetek
+- [ ] Pointerek, úgy általánosságban
+- [ ] Függvények, átadás referencia szerint*
+- [ ] Sztringek kezelése
 - [ ] Beolvasás file-ból, best practices
 - [ ] Minden más, amit még magamtól nem találtam ki, de igény van rá
 
