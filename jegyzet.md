@@ -89,7 +89,7 @@ typedef struct AdatSzerk
 
 Mindezek tudatában a lista elemeinek ezt az adatszerkezetet kell tartalmazniuk, továbbá a már említett következő elemre mutató pointert.
 
-### A lista elemeinek szerkezete
+#### A lista elemeinek szerkezete:
 
 ```c
 typedef ListaElem
